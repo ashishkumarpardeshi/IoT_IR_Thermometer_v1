@@ -29,10 +29,15 @@ All open source software has been used for design this device as follows:
 3. Platform for ESP-12E: Arduino IDE Platform (Programming it still pending, thinking of fabricating the device first, I will
                                                as soon as i will finish writing it.)
 
-## KiCAD Files
+## Device KiCAD Files
 
 Two PCB Boards has been designed, one is User_interface Board accomodating tiny OLED display and five push to ON switches.
 The second one is the main board with ESP-12E as the main controller with DS3231 RTC, Trigger Switch, Programming Header, Connector for 
 MLX90614 module, Connector for Laser module, Connector for User interface Board.
 
-You can find kiCAD schematic and board files inside the folder 
+You can find kiCAD schematic and board files inside the zip folder IoT_IR_Thermometer_v1_PCB_Files.zip
+
+## Device FreeCAD Files
+
+You can find STL Files and 3D design source freeCAD files inside the zip folder 
+
