@@ -9,6 +9,15 @@ This device is made upto Digital Pre-Fabrication stage which means i have design
 but yet not fabricated or prototyped it because of non availbility of Resources and facilities due to COVID-19 lockdown.
 And it will be great supprt and help if someone having resources and facility would like to fabricate the device.
 
+I am updating the documentation of design and development of IoT_IR_Thermometer_v1 at following link.
+
+https://metastudio.org/t/buidling-of-iot-ir-thermometer-digital-pre-fabrication-stage/3630
+
+The current and also the future development of this work is published under (CC BY-NC-SA 3.0) License. 
+One can read more about this license at the link given below.
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
 ## Microcontroller used:
 I have designed schematic using both Arduino Mini and ESP-12E. But chosen to go for board designing with ESP-12E 
 because of integrated Wi-Fi and low power consumption.
@@ -35,9 +44,13 @@ Two PCB Boards has been designed, one is User_interface Board accomodating tiny 
 The second one is the main board with ESP-12E as the main controller with DS3231 RTC, Trigger Switch, Programming Header, Connector for 
 MLX90614 module, Connector for Laser module, Connector for User interface Board.
 
-You can find kiCAD schematic and board files inside the zip folder IoT_IR_Thermometer_v1_PCB_Files.zip
+You can find kiCAD schematic and board files inside the zip folder IoT_IR_Thermometer_v1_PCB Files.zip
 
 ## Device FreeCAD Files
 
-You can find STL Files and 3D design source freeCAD files inside the zip folder 
+You can find STL Files and 3D design source freeCAD files inside the zip folder IoT_IR_Thermometer_v1_3D_Encloser Files.zip
+
+Feel free to ask any query.
+
+### Happy Development !
 
