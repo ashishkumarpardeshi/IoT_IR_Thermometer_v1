@@ -27,16 +27,15 @@ MLX90614
 
 ## For Powering the Device:
 In current version_1 I have used 9v Battery which can be replaced whenever required.
-Although I wanted to add the rechargeable battery for which there is a requirement for designing  
-Battery Management System (BMS), I am working on it and may be come up with it in next development.
+Although I wanted to add the rechargeable battery for which there is a requirement for designing Battery Management System (BMS), 
+I am working on it and may be come up with it in next development.
 
 ## Software Used
 All open source software has been used for design this device as follows:
 
 1. Mechanical CAD: FreeCAD
 2. Electronic CAD: KiCAD
-3. Platform for ESP-12E: Arduino IDE Platform (Programming it still pending, thinking of fabricating the device first, I will
-                                               as soon as i will finish writing it.)
+3. Platform for ESP-12E: Arduino IDE Platform (Programming is still pending, thinking of fabricating the device first, I will publish the  code as soon as i will finish writing it.)
 
 ## Device KiCAD Files
 
